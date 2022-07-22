@@ -8,7 +8,7 @@
 <p align="center">
   A little about me... 💻
   
-I am a pre-final year student 🎓 pursuing a **B.Tech in Computer Science and Engineering from [Jaypee Institute Of Information Technology](https://https://www.jiit.ac.in)**  </br>
+I am a final year student 🎓 pursuing a **B.Tech in Computer Science and Engineering from [Jaypee Institute Of Information Technology](https://https://www.jiit.ac.in)**  </br>
 I enjoy problem solving , and I am constantly eager to learn new technologies and explore new fields. </br>
 C++ is my primary language. JavaScript, React, HTML, and CSS are among the technologies with which I am familiar  💻😃. </br>
 My good attitude, self-motivation, and diligent personality are my assets.</br>
